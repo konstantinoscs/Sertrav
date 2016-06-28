@@ -5,3 +5,5 @@ It reads the names of the customers from a .txt file named List and then it make
 where they will sit each day of a trip. This is made to ensure that every customer will eventually sit 
 in each part of the bus (front, middle back etc) so everyone will be happy and no one will complain about
 a "bad" seat.
+
+Update: A c++ version with GUI will be out soon!
