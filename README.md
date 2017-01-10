@@ -6,4 +6,7 @@ where they will sit each day of a trip. This is made to ensure that every custom
 in each part of the bus (front, middle back etc) so everyone will be happy and no one will complain about
 a "bad" seat.
 
+Ignore the serres travel prev.
+
 Update: A c++ version with GUI will be out soon!
+Edit: c++ gui version is ready but unpublished due to Qt dependencies issues.
